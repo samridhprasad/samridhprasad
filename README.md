@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Sam 👋
 
 <!--
 **samridhprasad/samridhprasad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Things I'm passionate about
+- software architecture 🧰
+- docs that don't suck 📜
+- technology ethics and data privacy 🔐
+- saving the fkn planet 🌎 

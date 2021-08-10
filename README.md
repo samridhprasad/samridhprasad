@@ -19,4 +19,3 @@ Here are some ideas to get you started:
 - software architecture 🧰
 - docs that don't suck 📜
 - technology ethics and data privacy 🔐
-- saving the fkn planet 🌎 

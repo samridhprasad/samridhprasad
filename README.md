@@ -1,5 +1,7 @@
 ### Hi there, I'm Samridh 👋
 Here's how you say it 👉 https://www.samridh.me
+I usually go by Sam professionally :) 
+
 <!--
 **samridhprasad/samridhprasad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

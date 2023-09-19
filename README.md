@@ -1,8 +1,5 @@
 ### Hi there, I'm Samridh 👋
-Here's how you say it 👉 https://samridh.me
-
-I usually go by Sam professionally :) 
-
+https://samridh.me
 <!--
 **samridhprasad/samridhprasad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ### Things I'm passionate about
-- software architecture 🧰
-- docs that don't suck 📜
-- technology ethics and data privacy 🔐
+- system design and software architecture 🧰
+- docs that don't suck and actually help you build and run stuff 📜
+- machine intelligence ethics and data privacy 🔐

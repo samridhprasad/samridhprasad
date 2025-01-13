@@ -17,5 +17,4 @@ Here are some ideas to get you started:
 
 ### Things I'm passionate about
 - system design and software architecture 🧰
-- docs that don't suck and actually help you build and run stuff 📜
 - machine intelligence ethics and data privacy 🔐
